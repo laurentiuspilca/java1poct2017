@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nume\ salariu\ functie
+comment0.target=Angajat(java.lang.String,\ double,\ Functie)
+comment1.params=
+comment1.target=java.lang.String\ getNume()
+comment2.params=nume
+comment2.target=void\ setNume(java.lang.String)
+comment3.params=
+comment3.target=double\ getSalariu()
+comment4.params=salariu
+comment4.target=void\ setSalariu(double)
+comment5.params=
+comment5.target=Functie\ getFunctie()
+comment6.params=functie
+comment6.target=void\ setFunctie(Functie)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
